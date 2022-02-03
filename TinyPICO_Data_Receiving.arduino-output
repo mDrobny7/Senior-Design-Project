@@ -1,0 +1,11 @@
+// Matthew Metz
+// Telling TinyPICO where to recieve data from (pins) and at what rate
+
+void setup() {
+
+   }
+
+
+   void loop() {
+
+   }
